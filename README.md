@@ -6,7 +6,9 @@
 ## Features
 
 Features include:
+* A registration / login page
 * Add a product
+* Edit a product
 
 ## To-Do
 
