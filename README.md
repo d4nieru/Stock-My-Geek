@@ -11,6 +11,9 @@ Features include:
 * Edit a product
 * Delete a product
 
+## Screenshots
+> There's no images at the moment :c
+
 ## To-Do
 
 * A lot of stuff (This is my very first php project) [❌]
