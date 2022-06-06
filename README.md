@@ -1,4 +1,17 @@
 <div align="center">
-  <h1> 📔 StockMyGeek </h1>
-  Le projet de Gestion des Stocks
+  <h1> 📔 Stock My Geek </h1>
+  <h4><b>Source code of the inventory management website</b></h4>
 </div>
+
+## Features
+
+Features include:
+* Add a product
+
+## To-Do
+
+* A lot of stuff (This is my very first php project) [❌]
+
+## License
+
+> Stock My Geek is licensed under the GPLv3.
