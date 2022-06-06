@@ -12,7 +12,7 @@ Features include:
 * Delete a product
 
 ## Screenshots
-``There's no images at the moment :c``
+--There's no images at the moment :c--
 
 ## To-Do
 
