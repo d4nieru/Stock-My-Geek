@@ -9,6 +9,7 @@ Features include:
 * A registration / login page
 * Add a product
 * Edit a product
+* Delete a product
 
 ## To-Do
 
